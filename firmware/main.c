@@ -1,0 +1,1 @@
+// Bare-metal firmware entry execution loop
